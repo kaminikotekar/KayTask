@@ -16,22 +16,29 @@
 ## Features
 
 - **Login via SSO** 
+
     ![LOGIN SSO Page](./Login-SSO.png)
 
 - **Kanban Board** 
+
     ![Kanban Board Page](./UI.png)
 
 - **Priority Based Task** 
+
     ![Set Task Priority](./task-add-priority.gif)
 
 - **Drag & Drop** 
+
     ![Drag and Drop](./task-drag-drop.gif)
 
 - **Edit Tasks** 
+
     ![Edit Task](./edit-tasks.gif)
 
 - **Save Completed Task / Mark Incomplete** 
-    ![Complete to Incomplete and vice versa](./edit-tasks.gif)
+
+    ![Complete to Incomplete and vice versa](./tasks-complete.gif)
 
 - **Edit Account Details** 
+
     ![Edit Account Details](./edit-profile.gif)
